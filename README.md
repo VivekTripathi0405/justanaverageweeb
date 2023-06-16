@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @justanaverageweeb
+- 👋 Hi, I’m Vivek Tripathi
 - 👀 I’m interested in becoming programmer
 - 🌱 I’m currently learning Diploma in Information Technology
 - 💞️ I’m looking to collaborate on Frontend Web Devekopment
